@@ -1,0 +1,31 @@
+{
+  "name": "fillerjs-server",
+  "version": "1.0.0",
+  "description": "A Javascript server for the filler game",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentdesmares/fillerjs-server.git"
+  },
+  "keywords": [
+    "filler",
+    "game",
+    "node"
+  ],
+  "author": "vincentdesmares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincentdesmares/fillerjs-server/issues"
+  },
+  "homepage": "https://github.com/vincentdesmares/fillerjs-server#readme"
+}
